@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Relations</title>
+</head>
+<body><hr>
+    {% for relation in relations %}
+    <a target="_blank" href="/admin/common/{{ relation.link }}">{{ relation.name }}</a>
+    <hr>
+    {% endfor %}
+</body>
+</html>

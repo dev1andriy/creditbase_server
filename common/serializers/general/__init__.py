@@ -1,0 +1,5 @@
+from common.serializers.general.application_template_sections import ApplicationTemplateSectionsSerializer
+from common.serializers.general.credit_applications import CreditApplicationsListSerializer
+from common.serializers.general.posting_restrictions_type import PostingRestrictionsTypeSerializer
+from common.serializers.general.products_applicable import ProductsApplicableSerializer
+from common.serializers.general.purposes_applicable import PurposesApplicableSerializer

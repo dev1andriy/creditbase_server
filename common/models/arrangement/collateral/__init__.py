@@ -1,0 +1,2 @@
+from common.models.arrangement.collateral.collateral import Collateral
+from common.models.arrangement.collateral.collateral_archived import CollateralArchived

@@ -1,0 +1,2 @@
+from common.views.business_analysis.industry_analysis import IndustryAnalysisAPIView
+from common.views.business_analysis.industry_analyzes import IndustryAnalyzesAPIView

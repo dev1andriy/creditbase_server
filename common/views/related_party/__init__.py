@@ -1,0 +1,2 @@
+from common.views.related_party.related_parties import RelatedPartiesAPIView
+from common.views.related_party.related_party import RelatedPartyAPIView

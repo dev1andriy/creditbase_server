@@ -1,0 +1,9 @@
+from common.models.credit_application.checklist.checklist_template import ChecklistTemplate
+from common.models.credit_application.checklist.checklist_question import ChecklistQuestion
+from common.models.credit_application.checklist.checklist_response import ChecklistResponse
+from common.models.credit_application.checklist.checklist_answer import ChecklistAnswer
+from common.models.credit_application.checklist.checklist_document import ChecklistDocument
+from common.models.credit_application.checklist.checklist_comment import ChecklistComment
+from common.models.credit_application.checklist.checklist_result import ChecklistResult
+from common.models.credit_application.checklist.checklist_tab import ChecklistTab
+

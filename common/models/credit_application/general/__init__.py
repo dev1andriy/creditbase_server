@@ -1,0 +1,4 @@
+from common.models.credit_application.general.credit_application import CreditApplication
+from common.models.credit_application.general.credit_application_banking_summary import CreditApplicationBankingSummary
+from common.models.credit_application.general.credit_application_staff import CreditApplicationStaff
+from common.models.credit_application.general.credit_application_template_state import CreditApplicationTemplateState

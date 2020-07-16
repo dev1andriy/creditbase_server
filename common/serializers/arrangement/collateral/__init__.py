@@ -1,0 +1,2 @@
+from common.serializers.arrangement.collateral.collateral import CollateralSerializer
+from common.serializers.arrangement.collateral.collaterals import CollateralsSerializer

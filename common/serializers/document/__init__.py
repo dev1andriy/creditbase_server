@@ -1,0 +1,5 @@
+from common.serializers.document.document import DocumentSerializer
+from common.serializers.document.document_file import DocumentFileSerializer
+from common.serializers.document.document_related_item import DocumentRelatedItemsSerializer
+from common.serializers.document.documents import DocumentsSerializer
+from common.serializers.document.documents_list import DocumentsListSerializer

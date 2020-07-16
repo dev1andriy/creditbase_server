@@ -1,0 +1,2 @@
+from common.serializers.related_party.owner.related_party_owner import RelatedPartyOwnerSerializer
+from common.serializers.related_party.owner.related_party_owners import RelatedPartiesOwnersSerializer

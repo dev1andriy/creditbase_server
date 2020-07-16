@@ -1,0 +1,2 @@
+from common.serializers.business_analysis.industry_analysis import IndustryAnalysisSerializer
+from common.serializers.business_analysis.industry_analyzes import IndustryAnalyzesSerializer
